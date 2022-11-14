@@ -1,7 +1,7 @@
 # nocnoc_d
 :!q
 B
-A`
+Aas`
 C
 A
 
